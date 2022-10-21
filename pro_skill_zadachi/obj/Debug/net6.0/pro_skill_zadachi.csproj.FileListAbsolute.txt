@@ -1,0 +1,15 @@
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\bin\Debug\net6.0\pro_skill_zadachi.exe
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\bin\Debug\net6.0\pro_skill_zadachi.deps.json
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\bin\Debug\net6.0\pro_skill_zadachi.runtimeconfig.json
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\bin\Debug\net6.0\pro_skill_zadachi.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\bin\Debug\net6.0\pro_skill_zadachi.pdb
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\obj\Debug\net6.0\pro_skill_zadachi.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\obj\Debug\net6.0\pro_skill_zadachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\obj\Debug\net6.0\pro_skill_zadachi.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\obj\Debug\net6.0\pro_skill_zadachi.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\obj\Debug\net6.0\pro_skill_zadachi.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\obj\Debug\net6.0\pro_skill_zadachi.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\obj\Debug\net6.0\refint\pro_skill_zadachi.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\obj\Debug\net6.0\pro_skill_zadachi.pdb
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\obj\Debug\net6.0\pro_skill_zadachi.genruntimeconfig.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\pro_skill_zadachi\obj\Debug\net6.0\ref\pro_skill_zadachi.dll

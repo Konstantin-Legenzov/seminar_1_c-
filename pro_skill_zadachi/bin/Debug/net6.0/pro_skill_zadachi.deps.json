@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pro_skill_zadachi/1.0.0": {
+        "runtime": {
+          "pro_skill_zadachi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pro_skill_zadachi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\bin\Debug\net6.0\vivesti_kvadrat.exe
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\bin\Debug\net6.0\vivesti_kvadrat.deps.json
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\bin\Debug\net6.0\vivesti_kvadrat.runtimeconfig.json
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\bin\Debug\net6.0\vivesti_kvadrat.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\bin\Debug\net6.0\vivesti_kvadrat.pdb
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\obj\Debug\net6.0\vivesti_kvadrat.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\obj\Debug\net6.0\vivesti_kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\obj\Debug\net6.0\vivesti_kvadrat.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\obj\Debug\net6.0\vivesti_kvadrat.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\obj\Debug\net6.0\vivesti_kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\obj\Debug\net6.0\vivesti_kvadrat.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\obj\Debug\net6.0\refint\vivesti_kvadrat.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\obj\Debug\net6.0\vivesti_kvadrat.pdb
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\obj\Debug\net6.0\vivesti_kvadrat.genruntimeconfig.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\seminar 1 c#\vivesti_kvadrat\obj\Debug\net6.0\ref\vivesti_kvadrat.dll
